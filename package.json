@@ -1,0 +1,23 @@
+{
+  "name": "cl-rando",
+  "version": "0.0.17",
+  "description": "An homage to the randos in your life AKA CL Randos. I use it to randomize arrays.",
+  "main": "randomizer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zanadar/cl-rando.git"
+  },
+  "keywords": [
+    "sorting",
+    "randomness"
+  ],
+  "author": "@zanadar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Zanadar/cl-rando/issues"
+  },
+  "homepage": "https://github.com/Zanadar/cl-rando#readme"
+}
